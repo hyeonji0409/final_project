@@ -13,6 +13,9 @@
     <header>
         <%--logo image--%>
         logo
+        main
+        asdfa
+
     </header>
 
 </body>
